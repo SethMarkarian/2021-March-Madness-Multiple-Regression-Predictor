@@ -1,0 +1,1 @@
+data =  pd.read_csv('\\Users\sethh\OneDrive - lafayette.edu\Desktop\Ross Stuff\March Madness NW PA - Data NW PA.csv')
